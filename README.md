@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Creating java projects since 2025<br>📚 I'm currently learning Javascript, Java, Python, HTML, Github, and VS Code. <br>🎯 Goals: Learn to make a website.<br>🎲 Fun fact: I love cake</p>
+<p align="left">✨ Creating java projects since 2025<br>📚 I'm currently learning Javascript, Java, Python, HTML, Github, and VS Code. <br>🎯 Goals: Learn to make a website.<br>🎲 Fun fact: I love cake and enjoy playing games.</p>
 
 ###
 
