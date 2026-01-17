@@ -57,7 +57,7 @@
   <a href="http://discord.com/users/815107543168450561" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-  <a href="a.damalerio.557585@umindanao.edu.ph" target="_blank">
+  <a href="mailto:a.damalerio.557585@umindanao.edu.ph" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
