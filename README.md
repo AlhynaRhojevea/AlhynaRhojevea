@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Learning how to code since 2025<br>📚 I'm currently studying JavaScript, Java, Python, HTML, PHP, SQL, and CSS<br>🎯 Goals: Learn to make a website<br>🎲 Fun fact: I enjoy listening to music when traveling</p>
+<p align="left">✨ Learning how to code since 2024<br>📚 I'm currently studying JavaScript, Java, Python, HTML, PHP, SQL, and CSS<br>🎯 Goals: Learn to make a website<br>🎲 Fun fact: I enjoy listening to music when traveling</p>
 
 ###
 
